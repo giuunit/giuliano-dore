@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/giuunit/giuliano-dore#readme",
   "dependencies": {
+    "babel-core": "^6.21.0",
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.5.0",
     "babel-preset-react": "^6.5.0",

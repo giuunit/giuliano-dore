@@ -11,8 +11,10 @@ class Card extends React.Component {
                         </div>
                         <div className="card-content">
                             <Chip name='C#'></Chip>
+                            <Chip name='TeamCity'></Chip>
                             <Chip name='Javascript'></Chip>
                             <Chip name='HTML5'></Chip>
+                            <Chip name='gulp'></Chip>
                             <Chip name='Xamarin'></Chip>
                             <Chip name='AngularJS'></Chip>
                             <Chip name='ASP.NET'></Chip>
@@ -20,6 +22,7 @@ class Card extends React.Component {
                             <Chip name='Entity Framework'></Chip>
                             <Chip name='Git'></Chip>
                             <Chip name='NodeJS'></Chip>
+                            <Chip name='Braintree'></Chip>
                             <Chip name='Github'></Chip>
                             <Chip name='jQuery'></Chip>
                             <Chip name='ASP.NET MVC'></Chip>

@@ -13,7 +13,7 @@ class App extends React.Component {
                 
                 <div className="section no-pad-bot">
                     <div className="container">
-                        <Title name='Giuliano Dore' title='Freelance .NET / front-end developer'></Title>
+                        <Title name='Giuliano Dore' title='Entrepreneur / Freelance Software Engineer'></Title>
                         
                         <div className="row">
                             <div className="col s12 m4">
